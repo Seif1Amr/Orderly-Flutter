@@ -1,0 +1,1 @@
+Placeholder for image assets. Please add image files (e.g., pizza.jpg, burger.jpg, salad.jpg, pizza1.jpg, pizza2.jpg, dessert1.jpg, burger1.jpg, fries.jpg, salad1.jpg, salad2.jpg) into this folder to replace placeholders used in mock data.
